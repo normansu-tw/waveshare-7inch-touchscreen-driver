@@ -6,10 +6,6 @@ If you want to upgrade your device, please send it back and let them upgrade for
 
 I will stop develop this driver and keep the functionality the same.
 
-Support this driver
-===================
-Support me by [registering a DigitalOcean account](https://m.do.co/c/4bc532e3ef94), you will get a $10 credict for free.
-
 WaveShare 7-inch user space driver
 ===================================
 I brought a [WaveShare 7-inch HDMI LCD](http://www.waveshare.net/shop/7inch-HDMI-LCD-B.htm) and it provides a USB touchscreen.
